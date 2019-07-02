@@ -1,0 +1,11 @@
+/Users/ricardorivera/cSharp/human/bin/Debug/netcoreapp2.1/human.deps.json
+/Users/ricardorivera/cSharp/human/bin/Debug/netcoreapp2.1/human.runtimeconfig.json
+/Users/ricardorivera/cSharp/human/bin/Debug/netcoreapp2.1/human.runtimeconfig.dev.json
+/Users/ricardorivera/cSharp/human/bin/Debug/netcoreapp2.1/human.dll
+/Users/ricardorivera/cSharp/human/bin/Debug/netcoreapp2.1/human.pdb
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.csprojAssemblyReference.cache
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.csproj.CoreCompileInputs.cache
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.AssemblyInfoInputs.cache
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.AssemblyInfo.cs
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.dll
+/Users/ricardorivera/cSharp/human/obj/Debug/netcoreapp2.1/human.pdb
